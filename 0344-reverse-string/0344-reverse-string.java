@@ -8,7 +8,7 @@ class Solution {
             s[right]=temp;
              left++;
              right--;
-        }System.out.print(s);
+        }
         
     }
 }
