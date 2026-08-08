@@ -10,6 +10,6 @@ class Solution {
 class Main{
     public static void main(String[]args){
         Solution obj=new Solution();
-        System.out.println(obj.fib(5));
+        System.out.println(obj.fib(4));
     }
 }
