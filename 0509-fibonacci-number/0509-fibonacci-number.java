@@ -6,3 +6,9 @@ class Solution {
         return(fib(n-1)+fib(n-2));
     }
 }
+class Main{
+    public static void main(String[]args){
+        Solution obj=new Solution();
+        System.out.println(obj.fib(4));
+    }
+}
